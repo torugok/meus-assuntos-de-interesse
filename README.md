@@ -4,6 +4,8 @@ Meus links mt fodas, organizados pelas minhas áreas de interesse :)
 # TODO
 - [ ] Organizar links do TCC aqui 
 - [ ] Colocar mais links que tá pouco ainda kkk :)
+- [ ] Copiar organização de Awesome Lists
+
 
 # Boas Práticas
 
