@@ -1,5 +1,5 @@
-# links-mt-fodas - EM PROGRESSO
-Meus links mt fodas, organizados pelas minhas áreas de interesse :)
+# Meus Assuntos de Interesse - EM PROGRESSO
+Meus links para assuntos de meu interesse, organizados pelas minhas áreas de interesse :)
 
 # TODO
 - [ ] Organizar links do TCC aqui 
