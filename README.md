@@ -1,5 +1,5 @@
 # Meus Assuntos de Interesse - EM PROGRESSO
-Meus links para assuntos de meu interesse, organizados pelas minhas áreas de interesse :)
+Meus links para assuntos de meu interesse, organizados por areas :)
 
 # TODO
 - [ ] Organizar links do TCC aqui 
